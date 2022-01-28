@@ -1,0 +1,172 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+/* .header
+{
+    height: 100%;
+    width: 100%;
+    position: relative;
+} */
+
+.img{
+    margin: 1%;
+    padding: 1%;
+    width: 25%;
+    
+}
+
+.nav-link{
+    color: black;
+    font-weight: bold;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 125%;
+    /* float: left; */
+    
+}
+.menu{
+    width: 73%;
+    margin-top: 10%;
+}
+.background img{
+    height: 45%;
+    width: 85%;
+    margin: 7%;
+    border-radius: 2%;
+}
+
+
+.container1 {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  /* Bottom left text */
+  .centre {
+    position: absolute;
+    top: 8%;
+    left: 40%;
+    font-weight: bold;
+    font-size: 200%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+  }
+  .img{
+    width: 90%;
+    height: 50%;
+    border-radius: 60px;
+  }
+  
+  .container2{
+    position: relative;
+    text-align: center;
+    width:75%;
+    height:76%;
+    border-radius: 60px;
+    border: 0.2px solid #b5babd;
+    border-width: 5px;
+    background-color: white;
+    top: -215px;
+    left: 13%;
+  }
+
+  .img3{
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    padding-top: 9%;
+    padding-left: 9%;
+    
+  }
+  .pimage1{
+    width: 170px;
+    height: 268px;
+    right: 20px;
+    border: 5px solid #b5babd;
+  }
+  .pimage2{
+    width: 147px;
+    height: 227px;
+    border-top: 5px solid #b5babd;
+    border-right: 5px solid #b5babd;
+    border-bottom: 5px solid #b5babd;
+    
+  }
+  .pimage3{
+    width: 129px;
+    height: 189px;
+    border-top: 5px solid #b5babd;
+    border-right: 5px solid #b5babd;
+    border-bottom: 5px solid #b5babd;
+  }
+  .container3{
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .cards{
+    
+      font-weight: bold;
+      font-size: xx-large;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      
+  }
+
+  .price{
+      flex-direction: row;
+      justify-content: space-between;
+      display: flex;
+      align-items: center;
+  }
+
+  .price1{
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+  }
+  .price1 h5{
+      text-decoration: line-through;
+  }
+
+  .button1 {
+    width: 68%;
+    border-radius: 25px;
+  }
+
+  .container4{
+      margin-top: -90px;
+      padding-top: 20px;
+      text-align: center;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .container5{
+    display: flex;
+    align-items: center;
+    width: 79%;
+    height: 40%;
+    border: 5px solid #b5babd;
+    border-radius: 60px;
+    margin-left: 130px;
+  }
+ 
+  .title{
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+  }
+  .card2{
+    display: flex;
+    align-items: center;
+    margin-left: 130px;
+  }
+  .shadow1{
+    width: 50px;
+    height: 50px;
+    background-color: #e65525;
+    border-radius:50%;
+    box-shadow: 0 0 0 3px #e78267;
+  }
